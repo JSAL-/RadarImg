@@ -26,14 +26,9 @@ Radar.of(radarNode).setOption({
 ```
 you can also set some default options to the radar such as:
 
-
+```
 width: default by 200
-
-
 height: default by 180 
-
-
 fontSize: default by 12 
-
-
 fontFamaly: default by Microsoft YAHEI
+```
