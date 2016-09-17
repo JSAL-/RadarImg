@@ -1,5 +1,5 @@
-# RadarImg
-技能雷达图生成插件
+# Radar tool 技能雷达图生成插件
+
 a js plugin for drawing skills radar.
 you can use it after add the radar.js into you project and then use:
 
